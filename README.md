@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sardar Khan</h1>
 <h3 align="center">A passionate Android developer from PK</h3>
 
-- 🌱 I’m currently learning **Android, Kotlin , Jetpack Compose.Java,**
+- 🌱 **A forward-thinking Android developer offering more than Five years of experience in building, integrating, testing and supporting Android applications.**
 
 - 💬 Ask me about **Android,Kotlin,Java**
 
