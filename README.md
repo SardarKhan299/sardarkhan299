@@ -10,9 +10,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sardarkhan299" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sardarkhan299" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sardar-khan-a59319122/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sardar-khan-a59319122/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/3461875/sardar-khan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/3461875/sardar-khan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/sardar_khan299" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/sardar_khan299" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sardar-khan-a59319122/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sardar-khan-a59319122/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/3461875/sardar-khan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/3461875/sardar-khan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sardar_khan299" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/sardar_khan299" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
