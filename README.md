@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sardar Khan</h1>
 <h3 align="center">A passionate Android developer from PK</h3>
 
-- 🌱 **A forward-thinking Android developer offering more than Eight years of experience in building, integrating, testing and supporting Android applications for mobile and tablet devices on the Android platform. Troubleshoot and debug to optimize performance.
-As a Software Engineer, I Like to learn new Technologies and teaching skills. I'd love to combine my passion for learning and teaching with my Software Development skills to continue to grow and makes others grow.
-Android Development, Java, Kotlin, Machine Learning, Software Engineer..**
+- 🌱 **Lead Android Developer | 10+ Years of Android Development Experience
+I have a proven track record of delivering high-quality Android apps, with 10+ years of experience in Android application development. Proficient in Kotlin and Java, with a strong focus on building high-performance, scalable mobile applications. Expertise in API design, mobile architecture, and delivering exceptional user experiences using test-driven development (TDD) and clean architecture.
+**
 
 - 💬 Ask me about **Android,Kotlin,Java**
 
